@@ -1,0 +1,21 @@
+{
+    "name": "slim/slim-skeleton-blade",
+    "description": "skeleton SlimFramework 3 with slim/slim-skeleton and hiropeke/slim-blade-view prepared for function blade templates",
+    "keywords": ["microframework","rest","router", "psr7", "blade", "SlimFramewok"],
+    "homepage": "https://github.com/paulpwo/slimframework-skeleton-blade",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Osinga",
+            "email": "paulpwo@gmail.com",
+            "homepage": "https://github.com/paulpwo/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17",
+        "hiropeke/slim-blade-view": "^0.1.1"
+    }
+}
